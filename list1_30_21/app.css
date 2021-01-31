@@ -1,0 +1,21 @@
+h1 {
+    text-align: left;font-size: xx-large;font-family: 'Courier New';
+}
+p {
+    text-align: left;font-size: large;font-family: 'Courier New';font-weight: 750;
+}
+ul {
+    text-align: left;font-size: large;list-style-position: inside;font-family: 'Courier New';font-weight: 600;
+}
+li {
+    text-align: left;font-size: large;font-family: 'Courier New';font-weight: 600;
+}
+body {
+    background-image: url('gsmp.jpg'); 
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+
+    background-size: 100% 100%;
+}
