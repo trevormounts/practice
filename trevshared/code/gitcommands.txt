@@ -8,4 +8,4 @@ git branch --shows current branch
 get checkout commit-hash --goes back to previous state of project with commit hash 
 git checkout master --goes back to latest commit 
 git checkout -b new-branch-name --creates new branch in current repository
-git remote add orgin 
+git push --pushes commited changes to 
